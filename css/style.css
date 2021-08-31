@@ -1788,6 +1788,7 @@ ul.timeline {
 	margin-bottom: 50px;
 	border: 1px solid #EAE7E7;
 	padding: 29px 10px 20px;
+     width: 300px;
 }
 
 .services-box .services-icon {
@@ -2030,7 +2031,7 @@ ul.timeline {
 
 
 #testimonials {
-	background:url(../images/parallax/testimonials.jpg) no-repeat;
+	background:url(../images/parallax/testimonials.jpeg) no-repeat;
 }
 
 #testimonials {
@@ -2791,7 +2792,7 @@ li.comment ol.comment-sub {
 /*-----------------------------------------------------------------*/
 
 #contact {
-	background:url(../images/parallax/contact.jpg) no-repeat;
+	background:url(../images/parallax/contact.jpeg) no-repeat;
 }
 
 .contact-form {
